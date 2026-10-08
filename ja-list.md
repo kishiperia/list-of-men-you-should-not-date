@@ -2,3 +2,4 @@
 - メインPCのOSがLinuxの男
 - スマホがAndroid
 - WearOS Watchユーザー
+- VSCodeにvim拡張入れてる人
