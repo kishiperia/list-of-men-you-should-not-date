@@ -1,0 +1,4 @@
+- スマホにMagiskが入っている男
+- メインPCのOSがLinuxの男
+- スマホがAndroid
+- WearOS Watchユーザー
