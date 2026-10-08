@@ -3,3 +3,4 @@
 - スマホがAndroid
 - WearOS Watchユーザー
 - VSCodeにvim拡張入れてる人
+- Pythonでリスト内包表記多用する人
